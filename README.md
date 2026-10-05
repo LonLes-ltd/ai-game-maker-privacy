@@ -5,7 +5,7 @@
 ### 🚀 Turn an idea into a playable world. 🚀
 
 [![Platform](https://img.shields.io/badge/Platform-Android-brightgreen?style=for-the-badge&logo=android)](https://play.google.com/)
-[![Policy](https://img.shields.io/badge/Privacy-Policy-orange?style=for-the-badge&logo=readthedocs)](https://submitgame.github.io/ai-game-maker-privacy/)
+[![Policy](https://img.shields.io/badge/Privacy-Policy-orange?style=for-the-badge&logo=readthedocs)](https://lonles-ltd.github.io/ai-game-maker-privacy/)
 [![Publisher](https://img.shields.io/badge/Publisher-LonLes%20Ltd-blue?style=for-the-badge)](#)
 
 <br />
@@ -23,7 +23,7 @@
 
 > **No account required. No in-app purchases. Prompts are not retained.**
 
-Prompts go to an AI service only to generate the requested game; neither LonLes Ltd nor the AI service retains them, and they are not used for model training. Generated games stay on your device. GitHub integration is optional. Read the [Privacy Policy](https://submitgame.github.io/ai-game-maker-privacy/) and review GitHub permissions before connecting.
+Prompts go to an AI service only to generate the requested game; neither LonLes Ltd nor the AI service retains them, and they are not used for model training. Generated games stay on your device. GitHub integration is optional. Read the [Privacy Policy](https://lonles-ltd.github.io/ai-game-maker-privacy/) and review GitHub permissions before connecting.
 
 ## 📱 See It in Action
 
@@ -59,7 +59,7 @@ Prompts go to an AI service only to generate the requested game; neither LonLes 
 
 Ai Game Maker does not require an account and does not offer in-app purchases. When you request AI game creation, your prompt is sent to an AI service only to generate the game; neither LonLes Ltd nor the AI service retains it or uses it for model training. Generated games are stored on your device. If you use the optional GitHub integration, information is sent to GitHub only for the action you choose.
 
-[Read the full Privacy Policy →](https://submitgame.github.io/ai-game-maker-privacy/)
+[Read the full Privacy Policy →](https://lonles-ltd.github.io/ai-game-maker-privacy/)
 
 ## 📁 Project Contents
 
